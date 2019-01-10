@@ -28,7 +28,7 @@ SECRET_KEY = ')p)q$x5$30996im-o-s!9)t538%)iptrz5udzqsl&&y0&1evwx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cms.zombies.ai']
 
 
 # Application definition
